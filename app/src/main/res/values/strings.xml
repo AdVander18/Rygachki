@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Rygachki</string>
+    <string name="rygat">Рыгануть</string>
+    <string name="return_ryg">Вернуть рыгачку в рот</string>
+    <string name="today_total">Всего рыганий за сегодня: %1$d</string>
+    <string name="stats">Статистика</string>
+    <string name="month_total">За %1$s: %2$s</string>
+    <string name="empty">—</string>
+    <string name="back">Назад</string>
+    <string name="sound_on">Выключить звук</string>
+    <string name="sound_off">Включить звук</string>
+
+    <plurals name="ryg_word">
+        <item quantity="one">рыгание</item>
+        <item quantity="few">рыгания</item>
+        <item quantity="many">рыганий</item>
+        <item quantity="other">рыгания</item>
+    </plurals>
+
+    <string-array name="month_names">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+    <string-array name="weekday_short">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+</resources>
